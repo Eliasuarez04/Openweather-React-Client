@@ -26,7 +26,7 @@ To run this project locally, you will need a free API key from OpenWeather.
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Eliasuarez04/weather-app.git](https://github.com/Eliasuarez04/weather-app.git)
+   git clone [https://github.com/Eliasuarez04/Openweather-React-Client](https://github.com/Eliasuarez04/Openweather-React-Client)
 
 2. Navigate to the directory:
    cd weather-app
