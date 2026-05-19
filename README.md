@@ -7,7 +7,7 @@
 
 A fast and responsive weather application that fetches and displays real-time meteorological data for any city worldwide, demonstrating asynchronous JavaScript and RESTful API integration.
 
-🔗 **[Live Demo: Try the App Here](https://weather-app-fawn-psi-93.vercel.app)**
+🔗 **[Live Demo: Try the App Here](https://weather-app-inky-six-45.vercel.app/)**
 
 ## ✨ Key Features
 * **Real-Time Data:** Integrates with the OpenWeather API to fetch live weather conditions (temperature, humidity, wind speed, etc.).
